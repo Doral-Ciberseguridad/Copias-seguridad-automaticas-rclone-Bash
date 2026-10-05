@@ -1,2 +1,2 @@
 # Copias-seguridad-automaticas-rclone-Bash
-He creado este shell script en bash (Linux) para automatizar la creación de copias de seguridad en la nube (usando la herramienta rclone).
+He creado este script interactivo en Bash (Linux) que automatiza copias de seguridad locales mediante compresión 7z y su sincronización guiada con la nube usando rclone.
