@@ -37,3 +37,4 @@ chmod +x 3.Copias_seguridad_nube.sh
 
 5. Introduce la ruta del directorio de origen que deseas respaldar y el remoto con la carpeta en la nube de destino para comprobar la compresión y subida automática de tus archivos
 
+<img width="978" height="80" alt="image" src="https://github.com/user-attachments/assets/a42f29c5-2a1d-4fd1-bdb7-95064cc87286" />
